@@ -1,6 +1,6 @@
 # Intelligent Traffic Management System
 
-![Traffic Management System Interface](your_image_path.jpg)
+![Traffic Management System Interface](ss.png)
 
 ## Overview
 This project implements an intelligent traffic management system using computer vision and deep learning. The system analyzes real-time video feeds from multiple lanes, counts vehicles, and dynamically adjusts traffic signal timings based on traffic density.
